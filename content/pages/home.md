@@ -1,30 +1,22 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: サイトタイトル
+featuredImage: 'https://ucarecdn.com/6d9d7b84-c17e-4694-92e0-4bb2e98d1ed0/'
+subtitle: キャッチコピー
+accordion: []
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+# このサイトについて
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+2020年現在、新型コロナウイルス感染症が猛威をふるい、様々な業種の方々が～(中略)
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+～ために私たちはこのサイトを設立しました。
 
-# Features
+お役立ていただければ幸いです。
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+# 私たちの取り組み
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+私たちは、コロナ禍で苦しい状況にある事業者の方々取り組みにフォーカスし、（中略）サイトの訪問者の皆様にはお得な情報を（後略）
