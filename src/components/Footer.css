@@ -16,12 +16,17 @@
 }
   
 .social a{
-     padding: .5em .5em .3em .5em;
+    padding: .5em .5em .3em .5em;
     border-radius: 1em;
     margin: .5em;
     width: 1em;
     height: 1em;
     vertical-align: middle;
     display: inline;
+}
+
+.navbar-item{
+    list-style: none;
+    font-size: 1.25rem;
 }
    
