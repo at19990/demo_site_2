@@ -2,10 +2,10 @@ import React from 'react'
 import './Footer.css'
 import { Link } from 'gatsby'
 
-import facebook from '../../images/social/facebook.svg'
-import instagram from '../../images/social/instagram.svg'
-import twitter from '../../images/social/twitter.svg'
-import vimeo from '../../images/social/vimeo.svg'
+import facebook from '../../static/images/social/facebook.svg'
+import instagram from '../../static/images/social/instagram.svg'
+import twitter from '../../static/images/social/twitter.svg'
+import vimeo from '../../static/images/social/vimeo.svg'
 
 export default () => (
   <div>
