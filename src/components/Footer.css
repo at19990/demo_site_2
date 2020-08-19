@@ -26,7 +26,11 @@
 }
 
 .navbar-item{
-    list-style: none;
+
     font-size: 1.25rem;
+}
+
+.menu-list{
+    list-style: none;
 }
    
