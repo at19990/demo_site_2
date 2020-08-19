@@ -15,8 +15,8 @@ export default () => (
     </h2>
     <br />
     <footer className="footer">
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div className="content">
+          <div className="container">
             <div style={{ maxWidth: '100vw' }} className="columns">
     
               <div className="column is-4">
