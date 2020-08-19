@@ -19,7 +19,7 @@ export default () => (
           <div className="container">
             <div style={{ maxWidth: '100vw' }} className="columns">
     
-              <div className="column is-4">
+              <div className="column is-4 is-size-5">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -43,7 +43,7 @@ export default () => (
                 </section>
             </div>
              
-            <div className="column is-4">
+            <div className="column is-4 is-size-5">
                 <section>
                   <ul className="menu-list">
                     
