@@ -4,11 +4,11 @@ slug: ''
 title: サイトタイトル
 featuredImage: 'https://ucarecdn.com/6d9d7b84-c17e-4694-92e0-4bb2e98d1ed0/'
 subtitle: キャッチコピー
-feature_1: |-
-  あああああ
-
-  おおおおお
-accordion: []
+accordion:
+  - content: あいうえお
+    title: あいうえお
+  - content: かきくけこ
+    title: かきくけこ
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
