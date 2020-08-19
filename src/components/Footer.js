@@ -32,6 +32,7 @@ export default () => (
                     
                   </ul>
                 </section>
+              </div>
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
