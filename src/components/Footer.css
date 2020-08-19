@@ -11,10 +11,12 @@
   text-decoration: none;
 }
 
-.social
-  padding: 2em
-.social a
-    padding: .5em .5em .3em .5em
+.social{
+    padding: 2em
+}
+  
+.social a{
+     padding: .5em .5em .3em .5em
     border-radius: 1em
     background-color: $white-ter
     margin: .5em
@@ -22,3 +24,5 @@
     height: 1em
     vertical-align: middle
     display: inline
+}
+   
