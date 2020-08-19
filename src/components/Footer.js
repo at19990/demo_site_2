@@ -9,7 +9,7 @@ export default () => (
     </h2>
     <br />
     <footer className="footer">
-    <div style={{ maxWidth: '100vw' }} className="columns">
+    
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
@@ -32,7 +32,8 @@ export default () => (
                     
                   </ul>
                 </section>
-              </div>
+            </div>
+             
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
