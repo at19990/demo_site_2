@@ -65,9 +65,7 @@ export default () => (
                   </ul>
                 </section>
               </div>
-            </div>
-        </div>
-    </div>
+          
     
             <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
@@ -100,6 +98,9 @@ export default () => (
                   />
                 </a>
               </div>
+      </div>
+        </div>
+    </div>
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
