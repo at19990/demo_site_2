@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
-import Gallery from '../components/Gallery'
+//import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery }) => (
@@ -21,12 +21,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery
         <Content source={body} />
       </div>
     </section>
-    <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section>
+    
     
   </main>
 )
@@ -48,7 +43,7 @@ export const pageQuery = graphql`
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
-      ...Gallery
+
       html
       frontmatter {
         title
