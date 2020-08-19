@@ -19,7 +19,7 @@ export default () => (
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
     
-              <div className="column is-4">
+              <div className="column">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -43,7 +43,7 @@ export default () => (
                 </section>
             </div>
              
-            <div className="column is-4">
+            <div className="column">
                 <section>
                   <ul className="menu-list">
                     
@@ -69,7 +69,7 @@ export default () => (
         </div>
     </div>
     
-            <div className="column is-4 social">
+            <div className="column social">
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
