@@ -10,7 +10,6 @@ import vimeo from '../../static/images/social/vimeo.svg'
 export default () => (
   <div>
     
-    <br />
     <footer className="footer">
         <div className="content">
           <div className="container">
