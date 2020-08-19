@@ -6,7 +6,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, feature_1 }) => (
   <main className="Home">
     <PageHeader
       large
@@ -20,6 +20,21 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         <Content source={body} />
       </div>
     </section>
+    
+    <div className="column is-6">
+        <section className="section">
+          <div className="has-text-centered">
+            <div
+              style={{
+                width: '240px',
+                display: 'inline-block',
+              }}
+            >
+            </div>
+          </div>
+          <p>{feature_1}</p>
+        </section>
+      </div>
   </main>
 )
 
