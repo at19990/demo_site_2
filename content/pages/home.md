@@ -1,17 +1,13 @@
 ---
 template: HomePage
 slug: ''
-title: サイトタイトル
+title: UNI Entertainment
 featuredImage: 'https://ucarecdn.com/6d9d7b84-c17e-4694-92e0-4bb2e98d1ed0/'
 subtitle: キャッチコピー
-accordion:
-  - content: あいうえお
-    title: あいうえお
-  - content: かきくけこ
-    title: かきくけこ
+accordion: []
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: UNI Entertainment
 ---
 # このサイトについて
 
